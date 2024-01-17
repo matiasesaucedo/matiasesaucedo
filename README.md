@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.postimg.cc/tT0Jnq9M/Mat-as-Saucedo-banner-github.png)">
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmatiasesaucedo%2F)
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&link=https//www.linkedin.com/in/matiasesaucedo/)
 ![Static Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&link=matiasesaucedo%40gmail.com)
 
 # Sobre mí
