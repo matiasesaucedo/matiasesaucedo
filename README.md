@@ -3,8 +3,10 @@
 </div>
 <img src="https://i.postimg.cc/tT0Jnq9M/Mat-as-Saucedo-banner-github.png)">
 
-![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&link=https//www.linkedin.com/in/matiasesaucedo/)
-![Static Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&link=matiasesaucedo%40gmail.com)
+<div align=left>
+  <a href="https://www.linkedin.com/in/matiasesaucedo/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  <a href="mailto:matiasesaucedo@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+</div>
 
 # Sobre mí
 ⭐ Mi nombre es Matías, soy QA manual y automatizador certificado.
