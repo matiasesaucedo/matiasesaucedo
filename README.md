@@ -11,7 +11,7 @@
 # Sobre mí
 ⭐ Mi nombre es Matías, soy QA manual y automatizador certificado.
 
-- 🌱 Actualmente me dedico al testing con gran interés en la automatización de pruebas
+- 🌱 Actualmente me dedico al testing con gran interés en la automatización de pruebas. Ampliando mis conocimientos en el rubro.
 - 📫 Escribime a matiasesaucedo@gmail.com / Email me at matiasesaucedo@gmail.com
 
 ## Lenguajes y herramientas
