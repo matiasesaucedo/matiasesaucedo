@@ -24,6 +24,13 @@
 ![Static Badge](https://img.shields.io/badge/TestNG-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/JUnit-pink?style=for-the-badge&logo=junit5)
 
+## Sistemas operativos y otros
+
+![Static Badge](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
+![Static Badge](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/IntelIj-orange?style=for-the-badge&logo=intelij)
+![Static Badge](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+
 ### Algunos de mis proyectos :arrow_down::arrow_down::arrow_down:
 
 
